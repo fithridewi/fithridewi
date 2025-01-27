@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fithridewi
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Analytics
-- 📫 Reach me on fithridewi@gmail.com
+- 📫 Reach me on fithridewi15@gmail.com
 - ⚡ Fun fact: I'm a potterhead! LOL
 
 <!---
